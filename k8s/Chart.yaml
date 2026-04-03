@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_PAYROLL
+name: alice-payroll
 description: ALICE Payroll
 type: application
 version: 0.1.0
